@@ -1,0 +1,14 @@
+D:\7. TechBodia\notificationParser\bin\Debug\net9.0\notificationParser.exe
+D:\7. TechBodia\notificationParser\bin\Debug\net9.0\notificationParser.deps.json
+D:\7. TechBodia\notificationParser\bin\Debug\net9.0\notificationParser.runtimeconfig.json
+D:\7. TechBodia\notificationParser\bin\Debug\net9.0\notificationParser.dll
+D:\7. TechBodia\notificationParser\bin\Debug\net9.0\notificationParser.pdb
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\notificationParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\notificationParser.AssemblyInfoInputs.cache
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\notificationParser.AssemblyInfo.cs
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\notificationParser.csproj.CoreCompileInputs.cache
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\notificationParser.dll
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\refint\notificationParser.dll
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\notificationParser.pdb
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\notificationParser.genruntimeconfig.cache
+D:\7. TechBodia\notificationParser\obj\Debug\net9.0\ref\notificationParser.dll
